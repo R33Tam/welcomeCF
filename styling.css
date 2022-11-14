@@ -14,7 +14,10 @@ body{
 
     
 }
-a{
+a:hover{
+    color:darkred;
+}
+.blood{
     color: red;
     text-decoration: none;
 }
